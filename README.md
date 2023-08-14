@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @DmitryV2044
 - 👀 I’m interested in Unity development
-- 🌱 I’m currently learning C#
-- 📫 How to reach dvovchinskiy@inbox.ru 
+- 📫 How to reach: 
+      mail: dvovchinskiy@inbox.ru
+      disord: dmitryv
 
 <!---
 DmitryV2044/DmitryV2044 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
